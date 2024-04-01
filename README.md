@@ -76,14 +76,11 @@
 
 ## Github Stats
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=BruceICzw&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+<div ><img src="https://github-readme-stats.vercel.app/api?username=BruceICzw&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 
 <br/>
 
-<div align="center"></div>
-
-<br/>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bruceiczw&" alt="bruceiczw" /></p>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=BruceICzw&&style=flat-square" align="center" />
 </div>
