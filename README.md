@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/BruceICzw/BruceICzw/blob/main/profile.gif?raw=true" align="center" height="200px" width="200px" style="border-radius: 50%;" />
+<img src="https://github.com/BruceICzw/BruceICzw/blob/main/profile.gif?raw=true" align="center" height="200px" width="200px" style="border-radius: 60%;" />
 </div>
 
 ### <div align="center">Hi🙋, My name is Bruce Chigwa, a fullstack Web Developer from Zimbabwe 🇿🇼</div>
