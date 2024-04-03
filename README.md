@@ -82,10 +82,11 @@
 
 ## Top Open Source -
 
-[![Evet-Scheduler](https://github-readme-stats.vercel.app/api/pin/?username=BruceICzw&repo=Event-Scheduler&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/BruceICzw/Event-Sceduler)
 [![Musika](https://github-readme-stats.vercel.app/api/pin/?username=BruceICzw&repo=Musika&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/BruceiCzw/Musika)
+[![Evet-Scheduler](https://github-readme-stats.vercel.app/api/pin/?username=BruceICzw&repo=Event-Scheduler&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/BruceICzw/Event-Sceduler)
+[![ToDoList App](https://github-readme-stats.vercel.app/api/pin/?username=BruceICzw&repo=TodoListApp&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)]((https://github.com/BruceICzw/TodoListApp))
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=BruceICzw&repo=Portfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/BruceICzw/Portfolio)
-[![Bruce's Readme](https://github-readme-stats.vercel.app/api/pin/?username=BruceICzw&repo=BruceICzw&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/BruceICzw/BruceICzw)
+
 
 <p align="left">
   <a href="https://github.com/alBruceICzw?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
