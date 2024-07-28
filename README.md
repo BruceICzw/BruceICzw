@@ -7,9 +7,9 @@
 
 ### <div align="center">Hi🙋, My name is Bruce Chigwa, a fullstack Web Developer from Zimbabwe 🇿🇼</div>
 
-- 🔭 I’m currently working on [Musika Marketplace](https://github.com/BruceICzw/Musika)
+- 🔭 I’m currently working on [Job Centre](https://github.com/BruceICzw/job_centre)
 
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning NextJS
 
 - ❓ Ask me about anything related to MERN stack and related technologies
 
